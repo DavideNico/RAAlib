@@ -3,7 +3,7 @@
 This library is composed as sets of modules which help in building and running flows using:
 
 * **DATA STORAGE**: Dataiku Managed folders, SQLite FileDB, Tableau Hyper files
-* **DATA ELABORATION**, TRANSFORMATION and ENCRYPTION: Python, SQLite FileDB, Tableau Hyper files
+* **DATA ELABORATION**, **TRANSFORMATION** and **ENCRYPTION**: Python, SQLite FileDB, Tableau Hyper files
 * **DATA VIZ**: Tableau, Python
 * **DATA SHARING**: SQLite FILEDB, Tableau Hyper, Excel, Emails
 
